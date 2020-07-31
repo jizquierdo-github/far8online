@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/far8online/static/css/main.5f361e03.chunk.css",
+    "main.js": "/far8online/static/js/main.c188becc.chunk.js",
+    "main.js.map": "/far8online/static/js/main.c188becc.chunk.js.map",
+    "runtime-main.js": "/far8online/static/js/runtime-main.4bd1f257.js",
+    "runtime-main.js.map": "/far8online/static/js/runtime-main.4bd1f257.js.map",
+    "static/js/2.ebe65a63.chunk.js": "/far8online/static/js/2.ebe65a63.chunk.js",
+    "static/js/2.ebe65a63.chunk.js.map": "/far8online/static/js/2.ebe65a63.chunk.js.map",
+    "index.html": "/far8online/index.html",
+    "precache-manifest.4ee93c80634c1933e43d5ea577fc8955.js": "/far8online/precache-manifest.4ee93c80634c1933e43d5ea577fc8955.js",
+    "service-worker.js": "/far8online/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/far8online/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ebe65a63.chunk.js.LICENSE.txt": "/far8online/static/js/2.ebe65a63.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/far8online/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bd1f257.js",
+    "static/js/2.ebe65a63.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c188becc.chunk.js"
+  ]
+}
