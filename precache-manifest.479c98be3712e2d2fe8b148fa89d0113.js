@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3634373aa4bc7f045d6d88e9912c08f4",
+    "revision": "523de1cbcca0666f7a8b95484c02f5f6",
     "url": "/far8online/index.html"
   },
   {
-    "revision": "e1572ae95b8cd157a5fd",
+    "revision": "831ad4bbd125f9c308eb",
     "url": "/far8online/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/far8online/static/js/2.ebe65a63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1572ae95b8cd157a5fd",
-    "url": "/far8online/static/js/main.c188becc.chunk.js"
+    "revision": "831ad4bbd125f9c308eb",
+    "url": "/far8online/static/js/main.296af7f9.chunk.js"
   },
   {
     "revision": "95506c93b2190af59dd6",
